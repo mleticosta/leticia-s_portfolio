@@ -1,29 +1,22 @@
-# Project 1 - Data Analysis - Coffee
+# Projeto 3 - Dashboard no Excel - Vendas de Bicicletas (PT)
+**No meu terceiro projeto como Analista de Dados, decidi usar um conjunto de dados aleatório e explorar a análise por meio de dashboards.**
 
-**This is my first project as a Data Analyst. I decided to pick a subject that is a passion in my day-to-day life - coffee.**
+## O processo até o dashboard final inclui:
+Objetivo: Limpar, organizar e criar um ótimo dashboard para analisar os dados.
 
-## The process until the final dashboard includes: 
-Goal: Organize and create an interactive dashboard. 
-1. Cleaning the dataset - verifying for duplicates and missing values.
-2. Using basic formulas such as XLOOKUP, IF, and SUM 
-3. Creating new columns in the 'orders' sheet to facilitate the analysis.
-4. Converting data to a table format.
-5. Inserting a Pivot Table from which the dashboard is created.
+1. Limpeza do conjunto de dados: Remover duplicatas, espaços em branco e padronizar as casas decimais.
+2. Organização: Substituir os dados por informações detalhadas e criar intervalos de idade.
+3. Tabelas Dinâmicas: Criar as tabelas dinâmicas mais importantes para análise e construção do dashboard.
+4. Design e organização do dashboard final: Incluir segmentações de dados com conexões de relatórios.
+5. Analisar as informações.
 
-*Thank you for reading this! I hope you enjoy exploring this project as much as I enjoyed creating it. Your feedback is highly appreciated, and I look forward to connecting with you and hearing your thoughts.*
 
-# Project 2 - Data Cleaning - Ship Sales
 
-**In my second project as a Data Analyst. I decided to pick a dirty dataset from Kaggle and transform it into useful data insights.**
+*Obrigado por ler! Espero que você aproveite a exploração deste projeto tanto quanto eu gostei de criá-lo. Seu feedback é muito bem-vindo, e estou ansioso para me conectar com você e ouvir suas opiniões.*
 
-## The process until the final dashboard includes: 
-Goal: Clean, organize and create a simple dashboard.
-1. Cleaning the dataset - verifying duplicates and missing values.
-2. Organizing all data into a new sheet to provide more insightful information.
-3. Apply formulas as CONCAT, XLOOKUP and others. You can find in the document. 
-4. Inserting a Pivot Table from which the dashboard is created.
 
-# Project 3 - Excel Dashboard - Bike Sales
+
+# Project 3 - Excel Dashboard - Bike Sales (EN)
 
 **In my third project as a Data Analyst, I decided to use a random dataset and explore the analysis through dashboards.**
 
